@@ -6,7 +6,7 @@ const Footer = React.createClass({
     render() {
         return (
             <div id="footer-style">
-                <a href="#">
+                <a href="https://github.com/l-emi/gitmarked" target="_blank">
                 <FontAwesome name="github" id="gitlink" />
                 </a>
             </div>

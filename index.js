@@ -21766,7 +21766,7 @@
 	            { id: 'footer-style' },
 	            _react2.default.createElement(
 	                'a',
-	                { href: '#' },
+	                { href: 'https://github.com/l-emi/gitmarked', target: '_blank' },
 	                _react2.default.createElement(_reactFontawesome2.default, { name: 'github', id: 'gitlink' })
 	            )
 	        );
